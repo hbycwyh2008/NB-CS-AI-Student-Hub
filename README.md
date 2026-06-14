@@ -6,6 +6,16 @@
 
 ---
 
+## Start Here
+
+- [Week 1 Agenda](Week_01_Agenda.md)
+- [Course Overview](Course_Overview.md)
+- [Student GitHub Guide](Student_GitHub_Guide.md)
+- [Assignment Submission Guide](Assignment_Submission_Guide.md)
+- [AI Use Policy](AI_Use_Policy_Student_Version.md)
+
+---
+
 ## What This Course Is
 
 **Full-Stack Web and AI Application Development** is a portfolio-first course in web development and AI application engineering.
@@ -23,13 +33,9 @@ Big picture: [Course_Overview.md](Course_Overview.md)
 
 ## Where to Find Weekly Tasks
 
-| Source | What it is |
-|---|---|
-| **GitHub Classroom** | Assignment README and starter files for each task |
-| **This Student Hub** | Guides, policies, templates, and FAQs |
-| **Your teacher** | Which assignment to open each class |
+**This week:** [Week 1 Agenda](Week_01_Agenda.md) — assignments, submission rules, and GitHub Classroom links.
 
-Typical class rhythm: [Weekly_Agenda_Template.md](Weekly_Agenda_Template.md)
+General class rhythm: [Weekly_Agenda_Template.md](Weekly_Agenda_Template.md)
 
 ---
 
@@ -98,6 +104,7 @@ Showcase guide: [Project_Showcase_Guide.md](Project_Showcase_Guide.md)
 
 | Document | Purpose |
 |---|---|
+| [Week_01_Agenda.md](Week_01_Agenda.md) | Week 1 assignments and links |
 | [Course_Overview.md](Course_Overview.md) | Course goals and learning path |
 | [Weekly_Agenda_Template.md](Weekly_Agenda_Template.md) | How a typical class works |
 | [Student_GitHub_Guide.md](Student_GitHub_Guide.md) | Set up your portfolio repo |
