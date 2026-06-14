@@ -19,6 +19,12 @@ You do **not** need GitHub Classroom. You create your own repo from each templat
 
 ---
 
+## If You Cannot Open the Template
+
+If the template repository does not open, do not panic. Tell your teacher. Do not create a blank repository unless your teacher tells you to.
+
+---
+
 ## What to Submit
 
 For each assignment, submit:

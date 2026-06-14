@@ -4,6 +4,20 @@
 
 ---
 
+## Critical Access Decision
+
+Before class, decide how students will access the template repositories.
+
+Recommended option:
+Make the three template repositories public, because they contain only student starter files and no teacher-only content.
+
+Alternative option:
+Keep the template repositories private, but add every student as a collaborator before class.
+
+If students cannot open the template links, they cannot start the assignments.
+
+---
+
 ## Step 1: Confirm template repositories
 
 Confirm these template repositories exist:
@@ -67,6 +81,24 @@ Before class:
 6. Edit a file.
 7. Commit changes.
 8. Submit the test repo link through your submission form.
+
+---
+
+## Step 6: Create a submission form
+
+Create one submission form for Week 1 using Google Form, Microsoft Form, Notion, LMS, or spreadsheet.
+
+Recommended fields:
+
+- Student name
+- Class
+- Assignment number
+- GitHub repository link
+- Screenshot link if required
+- Reflection completed? yes / no
+- Notes or questions
+
+After creating the form, paste the form link into `Week_01_Agenda.md`.
 
 ---
 

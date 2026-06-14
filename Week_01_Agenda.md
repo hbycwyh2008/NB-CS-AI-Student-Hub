@@ -16,6 +16,29 @@ By the end of Week 1, you should be able to:
 
 ---
 
+## Submission Form
+
+After you finish each assignment, submit your work here:
+
+> TODO: Teacher will paste the submission form link here.
+
+You will submit:
+
+- your name
+- class
+- assignment number
+- GitHub repository link
+- screenshot link if required
+- reflection file link or note
+
+---
+
+## Template Repository Access Note
+
+If you cannot open a template repository link, tell your teacher immediately. The template repositories must be accessible to students before class starts.
+
+---
+
 ## Assignments
 
 ### Assignment 1: GitHub README Portfolio Setup
@@ -41,6 +64,8 @@ What you will submit:
 - meaningful commit message
 - GitHub repository link or screenshot
 - completed reflection
+
+Submit your repository link using the Week 1 submission form above.
 
 ---
 
@@ -69,6 +94,8 @@ What you will submit:
 - reflection section
 - meaningful commit history
 
+Submit your repository link using the Week 1 submission form above.
+
 ---
 
 ### Assignment 3: HTML & CSS Profile Page
@@ -95,6 +122,8 @@ What you will submit:
 - screenshot of the page
 - GitHub commit history
 - completed reflection
+
+Submit your repository link using the Week 1 submission form above.
 
 ---
 

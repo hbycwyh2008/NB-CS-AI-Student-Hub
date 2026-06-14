@@ -118,6 +118,7 @@ Showcase guide: [Project_Showcase_Guide.md](Project_Showcase_Guide.md)
 |---|---|
 | [Week_01_Agenda.md](Week_01_Agenda.md) | Week 1 assignments and template links |
 | [Manual_Assignment_Submission_Guide.md](Manual_Assignment_Submission_Guide.md) | How to use templates and submit repo links |
+| [Student_Workflow_Test_Checklist.md](Student_Workflow_Test_Checklist.md) | Pre-class workflow test checklist |
 | [Course_Overview.md](Course_Overview.md) | Course goals and learning path |
 | [Weekly_Agenda_Template.md](Weekly_Agenda_Template.md) | How a typical class works |
 | [Student_GitHub_Guide.md](Student_GitHub_Guide.md) | Set up your portfolio repo |
