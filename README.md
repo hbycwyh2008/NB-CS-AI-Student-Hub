@@ -8,9 +8,18 @@
 
 ## Start Here
 
-- [Week 1 Agenda](Week_01_Agenda.md)
+1. Open [Week 1 Agenda](Week_01_Agenda.md).
+2. Open the assignment template repository.
+3. Click **Use this template**.
+4. Create your own assignment repository.
+5. Complete the required files.
+6. Submit your repository link.
+
+Useful guides:
+
 - [Course Overview](Course_Overview.md)
 - [Student GitHub Guide](Student_GitHub_Guide.md)
+- [Manual Assignment Submission Guide](Manual_Assignment_Submission_Guide.md)
 - [Assignment Submission Guide](Assignment_Submission_Guide.md)
 - [AI Use Policy](AI_Use_Policy_Student_Version.md)
 
@@ -33,7 +42,7 @@ Big picture: [Course_Overview.md](Course_Overview.md)
 
 ## Where to Find Weekly Tasks
 
-**This week:** [Week 1 Agenda](Week_01_Agenda.md) — assignments, submission rules, and GitHub Classroom links.
+**This week:** [Week 1 Agenda](Week_01_Agenda.md) — assignments, template repository links, and submission rules.
 
 General class rhythm: [Weekly_Agenda_Template.md](Weekly_Agenda_Template.md)
 
@@ -43,7 +52,7 @@ General class rhythm: [Weekly_Agenda_Template.md](Weekly_Agenda_Template.md)
 
 Your **personal GitHub repository** is where your learning evidence lives — code, commits, reflections, and project folders.
 
-It is **separate** from this Student Hub.
+Assignment work lives in **separate repos** you create from each template using **Use this template**.
 
 Setup guide: [Student_GitHub_Guide.md](Student_GitHub_Guide.md)
 
@@ -59,7 +68,10 @@ Every assignment needs more than code that runs once. You submit **learning evid
 - honest AI use disclosure (when applicable)
 - meaningful commit history
 
-Full guide: [Assignment_Submission_Guide.md](Assignment_Submission_Guide.md)
+Full guides:
+
+- [Manual_Assignment_Submission_Guide.md](Manual_Assignment_Submission_Guide.md)
+- [Assignment_Submission_Guide.md](Assignment_Submission_Guide.md)
 
 ---
 
@@ -104,7 +116,8 @@ Showcase guide: [Project_Showcase_Guide.md](Project_Showcase_Guide.md)
 
 | Document | Purpose |
 |---|---|
-| [Week_01_Agenda.md](Week_01_Agenda.md) | Week 1 assignments and links |
+| [Week_01_Agenda.md](Week_01_Agenda.md) | Week 1 assignments and template links |
+| [Manual_Assignment_Submission_Guide.md](Manual_Assignment_Submission_Guide.md) | How to use templates and submit repo links |
 | [Course_Overview.md](Course_Overview.md) | Course goals and learning path |
 | [Weekly_Agenda_Template.md](Weekly_Agenda_Template.md) | How a typical class works |
 | [Student_GitHub_Guide.md](Student_GitHub_Guide.md) | Set up your portfolio repo |
@@ -120,5 +133,5 @@ Showcase guide: [Project_Showcase_Guide.md](Project_Showcase_Guide.md)
 ## Need Help?
 
 1. Read [Course_FAQ.md](Course_FAQ.md)
-2. Check your GitHub Classroom assignment README
+2. Check the README in your assignment repository
 3. Ask your teacher in class — after you have tried debugging yourself

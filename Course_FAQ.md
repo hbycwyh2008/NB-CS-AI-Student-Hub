@@ -7,7 +7,7 @@
 ## General
 
 **Q: Where do I find assignments?**  
-A: In GitHub Classroom repositories your teacher creates — not in the private curriculum repo.
+A: Open the **template repository link** in [Week_01_Agenda.md](Week_01_Agenda.md), click **Use this template**, create your own assignment repo, then submit your repository link — not the private curriculum repo.
 
 **Q: Where do I put my code?**  
 A: In **your own** GitHub portfolio repository. See [Student_GitHub_Guide.md](Student_GitHub_Guide.md).

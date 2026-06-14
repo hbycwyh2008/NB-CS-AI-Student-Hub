@@ -52,7 +52,7 @@ You are expected to:
 
 | Place | Role |
 |---|---|
-| **Student Hub / GitHub Classroom** | Instructions and assignments from your teacher |
+| **Student Hub / template repos** | Instructions and assignment template links |
 | **Your GitHub repository** | Code, commits, reflections, project evidence |
 | **Notion portfolio** (if used) | Public showcase linking to your best work |
 
@@ -76,6 +76,6 @@ You may use AI to learn — not to skip thinking. Full rules: [AI_Use_Policy_Stu
 
 1. Read [README.md](README.md) in this Student Hub
 2. Set up your GitHub repo: [Student_GitHub_Guide.md](Student_GitHub_Guide.md)
-3. Follow your teacher’s GitHub Classroom assignment or in-class mission for today
+3. Open [Week 1 Agenda](Week_01_Agenda.md), use **Use this template** for today’s assignment, and submit your repository link when finished
 
 Questions? See [Course_FAQ.md](Course_FAQ.md)

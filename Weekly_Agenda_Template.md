@@ -10,7 +10,7 @@ This course is **portfolio-first**, **evidence-based**, and **mastery-focused**.
 
 | Place | Role |
 |---|---|
-| **Student Hub / GitHub Classroom** | Instructions and today’s assignment |
+| **Student Hub / template repos** | Instructions and assignment template links |
 | **Your GitHub repository** | **Learning evidence** — code, commits, reflections |
 | **Your Notion portfolio** (optional) | Public showcase of your best finished work |
 
@@ -24,7 +24,7 @@ Notion shows your best work to the world.
 
 ## What You Do Every Class
 
-Your teacher will share today’s assignment (GitHub Classroom README or in-class mission). Each **90-minute** class typically follows:
+Open the assignment **template repository link** from your weekly agenda, click **Use this template**, and create your assignment repo. Each **90-minute** class typically follows:
 
 | Time | Block | What you do |
 |---|---|---|
@@ -59,7 +59,7 @@ Your teacher will share today’s assignment (GitHub Classroom README or in-clas
 ```text
 Week __ · Date ___________
 
-[ ] Opened today’s assignment from teacher / GitHub Classroom
+[ ] Opened today’s assignment template repo and created my assignment repository
 [ ] Completed individual learning notes
 [ ] Finished practice task in my GitHub repo
 [ ] Wrote reflection (see Reflection_Template.md)

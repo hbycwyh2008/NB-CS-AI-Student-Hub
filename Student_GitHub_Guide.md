@@ -58,7 +58,7 @@ Copy and adapt:
 
 ## Step 5: Follow Your Assignments
 
-During Git & GitHub classes, your teacher will assign work through **GitHub Classroom** or share the in-class mission for that day. Commit your work to **your** repo after each class.
+During Git & GitHub classes, open the **template repository link** from [Week_01_Agenda.md](Week_01_Agenda.md), click **Use this template**, and commit your work to **your** assignment repo after each class.
 
 ---
 

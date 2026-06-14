@@ -20,22 +20,46 @@ By the end of Week 1, you should be able to:
 
 ### Assignment 1: GitHub README Portfolio Setup
 
-GitHub Classroom link:
+**Template repository link:**  
+https://github.com/hbycwyh2008/lesson-01-github-readme-template
 
-> TODO: paste GitHub Classroom assignment link here
+**Suggested repository name:** `assignment-01-github-readme-yourname`
+
+#### How to Start This Assignment
+
+1. Open the template repository link.
+2. Click **Use this template**.
+3. Choose **Create a new repository**.
+4. Name your repository clearly (for example: `assignment-01-github-readme-yourname`).
+5. Complete the required files.
+6. Commit your changes with meaningful commit messages.
+7. Submit your repository link to the teacher.
 
 What you will submit:
 
 - GitHub README file
 - meaningful commit message
-- GitHub repo link or screenshot
+- GitHub repository link or screenshot
 - completed reflection
+
+---
 
 ### Assignment 2: Markdown Portfolio Page
 
-GitHub Classroom link:
+**Template repository link:**  
+https://github.com/hbycwyh2008/lesson-02-markdown-portfolio-template
 
-> TODO: paste GitHub Classroom assignment link here
+**Suggested repository name:** `assignment-02-markdown-portfolio-yourname`
+
+#### How to Start This Assignment
+
+1. Open the template repository link.
+2. Click **Use this template**.
+3. Choose **Create a new repository**.
+4. Name your repository clearly (for example: `assignment-02-markdown-portfolio-yourname`).
+5. Complete the required files.
+6. Commit your changes with meaningful commit messages.
+7. Submit your repository link to the teacher.
 
 What you will submit:
 
@@ -45,11 +69,24 @@ What you will submit:
 - reflection section
 - meaningful commit history
 
+---
+
 ### Assignment 3: HTML & CSS Profile Page
 
-GitHub Classroom link:
+**Template repository link:**  
+https://github.com/hbycwyh2008/lesson-03-html-css-profile-page-template
 
-> TODO: paste GitHub Classroom assignment link here
+**Suggested repository name:** `assignment-03-html-css-profile-yourname`
+
+#### How to Start This Assignment
+
+1. Open the template repository link.
+2. Click **Use this template**.
+3. Choose **Create a new repository**.
+4. Name your repository clearly (for example: `assignment-03-html-css-profile-yourname`).
+5. Complete the required files.
+6. Commit your changes with meaningful commit messages.
+7. Submit your repository link to the teacher.
 
 What you will submit:
 
@@ -70,7 +107,10 @@ For each assignment, submit:
 3. completed `reflection.md`
 4. evidence of meaningful commits
 
-See also: [Assignment_Submission_Guide.md](Assignment_Submission_Guide.md)
+See also:
+
+- [Manual_Assignment_Submission_Guide.md](Manual_Assignment_Submission_Guide.md)
+- [Assignment_Submission_Guide.md](Assignment_Submission_Guide.md)
 
 ---
 

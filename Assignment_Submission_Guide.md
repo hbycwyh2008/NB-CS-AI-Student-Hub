@@ -77,7 +77,9 @@ Before you submit, ask:
 - Is my **revision record** visible in commit history?
 - Did I write an honest **AI usage note**?
 
-Submit through your teacher’s system (LMS, form, GitHub Classroom, or class folder).
+Submit through your teacher’s system (Google Form, Microsoft Form, LMS, Notion, or as directed in class). Include your **GitHub repository link** as the main evidence.
+
+See also: [Manual_Assignment_Submission_Guide.md](Manual_Assignment_Submission_Guide.md)
 
 ---
 
